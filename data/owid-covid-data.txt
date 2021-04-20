@@ -1,0 +1,66 @@
+Source: Hasell, J., Mathieu, E., Beltekian, D. et al. A cross-country database of COVID-19 testing. Sci Data 7, 345 (2020). https://doi.org/10.1038/s41597-020-00688-8Unique countries: 218
+
+Rows for Denmark: 442
+
+From 2020-02-02 to 2021-04-18
+
+Not nan rows for each column:
+iso_code 442
+continent 442
+location 442
+date 442
+total_cases 417
+new_cases 417
+new_cases_smoothed 412
+total_deaths 401
+new_deaths 401
+new_deaths_smoothed 412
+total_cases_per_million 417
+new_cases_per_million 417
+new_cases_smoothed_per_million 412
+total_deaths_per_million 401
+new_deaths_per_million 401
+new_deaths_smoothed_per_million 412
+reproduction_rate 403
+icu_patients 328
+icu_patients_per_million 328
+hosp_patients 329
+hosp_patients_per_million 329
+weekly_icu_admissions 0
+weekly_icu_admissions_per_million 0
+weekly_hosp_admissions 59
+weekly_hosp_admissions_per_million 59
+new_tests 421
+total_tests 421
+total_tests_per_thousand 421
+new_tests_per_thousand 421
+new_tests_smoothed 430
+new_tests_smoothed_per_thousand 430
+positive_rate 407
+tests_per_case 407
+tests_units 437
+total_vaccinations 112
+people_vaccinated 112
+people_fully_vaccinated 93
+new_vaccinations 111
+new_vaccinations_smoothed 111
+total_vaccinations_per_hundred 112
+people_vaccinated_per_hundred 112
+people_fully_vaccinated_per_hundred 93
+new_vaccinations_smoothed_per_million 111
+stringency_index 433
+population 442
+population_density 442
+median_age 442
+aged_65_older 442
+aged_70_older 442
+gdp_per_capita 442
+extreme_poverty 442
+cardiovasc_death_rate 442
+diabetes_prevalence 442
+female_smokers 442
+male_smokers 442
+handwashing_facilities 0
+hospital_beds_per_thousand 442
+life_expectancy 442
+human_development_index 442

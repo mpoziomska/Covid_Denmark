@@ -1,0 +1,17 @@
+Source: Hasell, J., Mathieu, E., Beltekian, D. et al. A cross-country database of COVID-19 testing. Sci Data 7, 345 (2020). https://doi.org/10.1038/s41597-020-00688-8
+
+Debt or contract relief captures if the government is freezing financial obligations during the COVID-19 pandemic, such as stopping loan repayments, preventing services like water from stopping, or banning evictions.
+
+No relief, Narrow relief, Broad relief
+
+Unique countries: 184
+
+Rows for Denmark: 476
+
+From 2020-01-01 to 2021-04-20
+
+Not nan rows for each column:
+Entity 476
+Code 476
+Day 476
+debt_relief 476
