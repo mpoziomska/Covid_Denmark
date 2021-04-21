@@ -1,0 +1,11 @@
+Source: Hasell, J., Mathieu, E., Beltekian, D. et al. A cross-country database of COVID-19 testing. Sci Data 7, 345 (2020). https://doi.org/10.1038/s41597-020-00688-8There may be sub-national or regional differences in restrictions. The policy categories shown may not apply at all sub-national levels. A country is coded as having these restrictions if at least some sub-national regions have implemented them.Unique countries: 184
+
+Rows for Denmark: 465
+
+From 2020-01-01 to 2021-04-09
+
+Not nan rows for each column:
+Entity 465
+Code 465
+Day 465
+stay_home_requirements 465

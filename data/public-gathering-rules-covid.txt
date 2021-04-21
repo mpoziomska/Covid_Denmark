@@ -1,0 +1,15 @@
+Source: Hasell, J., Mathieu, E., Beltekian, D. et al. A cross-country database of COVID-19 testing. Sci Data 7, 345 (2020). https://doi.org/10.1038/s41597-020-00688-8Restrictions are given based on the size of public gatherings as follows:
+1 - Restrictions on very large gatherings (the limit is above 1000 people)
+2 - gatherings between 100-1000 people
+3 - gatherings between 10-100 people
+4 - gatherings of less than 10 peopleUnique countries: 185
+
+Rows for Denmark: 465
+
+From 2020-01-01 to 2021-04-09
+
+Not nan rows for each column:
+Entity 465
+Code 465
+Day 465
+restriction_gatherings 465
