@@ -1,1 +1,1 @@
-https://github.com/mpoziomska/Covid_Denmark/blob/main/data/changes-visitors-covid.txt
+https://mpoziomska.github.io/Covid_Denmark/scripts/page/
